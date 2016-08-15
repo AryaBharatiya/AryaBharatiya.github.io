@@ -49,10 +49,10 @@ var rules = {
     "What feelings do you have when you apologize",
   ],
   "~*x I remember ~*y": [
-    "Do you often think of ~y?",
-    "Does thinking of ~y bring anything else to mind?",
+    "Do you often think of bev ~y?",
+    "Does thinking of bev ~y bring anything else to mind?",
     "What else do you remember?",
-    "Why do you recall ~y right now?",
+    "Why do you recall bev ~y right now?",
     "What in the present situation reminds you of ~y?",
     "What is the connection between me and ~y?",
   ],
