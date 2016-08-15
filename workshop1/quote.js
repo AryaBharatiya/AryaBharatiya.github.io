@@ -4,7 +4,7 @@
  * L&T quote generator
  */
 
-var things = ["rap", "NWA", "Bhangra", "Movies", "Audi", "Statue"];
+var things = ["rap", "NWA", "Bhangra", "Chief Keef", "Audi", "Statue"];
 var programmers = ["musician", "artist", "choreographer", "director", "mathematician", "architect"]
 var castles = ["museums", "bridges", "cities"]
 var exertions = ["lazy", "crap", "struggle", "toil", "endeavor", "hard work", "labor"];
