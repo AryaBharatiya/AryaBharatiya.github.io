@@ -5,7 +5,7 @@
  */
 
 var things = ["rap", "NWA", "Bhangra", "Chief Keef", "Audi", "Statue"];
-var programmers = ["musician", "artist", "choreographer", "director", "mathematician", "architect"]
+var programmers = ["http://cp91279.biography.com/1000509261001/1000509261001_2050821238001_Bio-Biography-Tupac-Shakur-SF.jpg", "artist", "choreographer", "director", "mathematician", "architect"]
 var castles = ["museums", "bridges", "cities"]
 var exertions = ["lazy", "crap", "struggle", "toil", "endeavor", "hard work", "labor"];
 var airs = ["sky", "atmosphere", "heavens", "nas", "rain"];
